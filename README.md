@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+Alex Troshin, frontend developer here. You can check out my portfolio at https://troalexis.github.io/soft-portfolio/.
+Cheers!
 
 <!--
 **TroAlexis/troalexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
